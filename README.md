@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-![Image text](https://github.com/007Galen-Guo/vue-luck-draw/src/assets/img/GIF.gif)
+![Image img](https://github.com/007Galen-Guo/vue-luck-draw/src/assets/img/GIF.gif)
 
 > 引用
 ```
